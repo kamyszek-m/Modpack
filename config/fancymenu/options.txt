@@ -1,15 +1,15 @@
 ##[general]
 
-B:force_fullscreen = 'false';
-I:default_gui_scale = '-1';
+B:force_fullscreen = 'true';
+I:default_gui_scale = '2';
 B:play_vanilla_menu_music = 'true';
 
 
 ##[customization]
 
 B:modpack_mode = 'false';
-B:show_customization_overlay = 'true';
-B:advanced_customization_mode = 'false';
+B:show_customization_overlay = 'false';
+B:advanced_customization_mode = 'true';
 
 
 ##[loading]
